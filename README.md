@@ -79,5 +79,5 @@ Software Engineering · Artificial Intelligence · Machine Learning
 ---
 
 <p align="center">
-  <sub>Cambridge → London · Always building something.</sub>
+  <sub>Cambridge → London</sub>
 </p>
