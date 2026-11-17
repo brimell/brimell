@@ -28,7 +28,6 @@ Software Engineering · Artificial Intelligence · Machine Learning
 | **[Relevance](https://github.com/brimell/Relevance)** | AI research discovery tool matching arXiv papers with relevant GitHub code at specific commits. | Python, FastAPI, React, SQLite, Llama |
 | **[Spicetify Star Ratings](https://github.com/brimell/spicetify-star-ratings)** | Spotify extension for rating tracks and generating weighted playlists, with 50+ users. | TypeScript, React, Spotify API |
 | **[Rimell Anamorphic](https://github.com/brimell/rimell-anamorphic)** | Experimental OpenFX plugin simulating anamorphic lens characteristics through procedural optical mapping. | C++, OpenFX |
-| **[Spicetify Playlist Labels](https://github.com/brimell/spicetify-playlist-labels)** | Spotify extension displaying the playlists containing each track. | JavaScript, Spicetify |
 | **[Give Me Movies](https://github.com/brimell/give-me-movies)** | Personalised film recommendation system using collaborative filtering. | Python, Machine Learning |
 
 ### Technologies
