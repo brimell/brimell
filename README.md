@@ -64,17 +64,15 @@ Software Engineering · Artificial Intelligence · Machine Learning
 ### GitHub activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=brimell&show_icons=true&hide_border=true&theme=transparent"
-    alt="Bill's GitHub statistics"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brimell&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-    alt="Most used languages"
-    height="170"
-  />
+  <a href="https://github.com/brimell">
+    <img
+      src="https://ghchart.rshah.org/f75c7e/brimell"
+      alt="Bill's GitHub contribution graph"
+      width="100%"
+    />
+  </a>
 </p>
+
 
 ---
 
