@@ -64,13 +64,11 @@ Software Engineering · Artificial Intelligence · Machine Learning
 ### GitHub activity
 
 <p align="center">
-  <a href="https://github.com/brimell">
-    <img
-      src="https://ghchart.rshah.org/f75c7e/brimell"
-      alt="Bill's GitHub contribution graph"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=brimell&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=F75C7E&icon_color=F75C7E"
+    alt="Bill's all-time GitHub statistics"
+    width="470"
+  />
 </p>
 
 
