@@ -61,17 +61,6 @@ Software Engineering · Artificial Intelligence · Machine Learning
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### GitHub activity
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=brimell&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=F75C7E&icon_color=F75C7E"
-    alt="Bill's all-time GitHub statistics"
-    width="470"
-  />
-</p>
-
-
 ---
 
 <p align="center">
